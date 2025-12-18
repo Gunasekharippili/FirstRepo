@@ -1,3 +1,6 @@
 Appending by echo command
 added 3rd commit by main
 added msg by main
+added 1st commit by feature
+added 2st commit by feature
+added msg by feature
